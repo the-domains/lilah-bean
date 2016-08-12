@@ -1,4 +1,3 @@
-layout_spectrum: 0.5934276508633047
 typography_spectrum: 0.3295658945571631
 color:
   brandStrength: 0.11791045707650483
@@ -6,9 +5,11 @@ color:
   saturation: 0.7616778360679746
   rhythmicContrast: 0.21454211114905775
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.5934276508633047
 name: Lilah Bean
+title: Test
